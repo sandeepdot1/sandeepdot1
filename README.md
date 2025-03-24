@@ -34,9 +34,8 @@
 ## **📌 Experience & Projects**  
 
 🔹 **FHIR API Integration** – Implemented **Epic FHIR OAuth** to securely retrieve EHR data.  
-🔹 **Flight Price Prediction** – Built a Flask-based ML model to predict airline ticket prices.  
 🔹 **Secure Authentication System** – Integrated **Auth0** for route security in a Node.js application.  
-🔹 **Dockerized Web Server** – Hosted a **Flask** app with **Gunicorn** in a **Docker container**.  
+🔹 **Flight Price Prediction** – Built a Flask-based ML model to predict airline ticket prices.  
 
 ---
 
